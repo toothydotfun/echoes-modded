@@ -1,0 +1,1 @@
+execute as @a[team=] at @s run function echoes:login/welcome/init

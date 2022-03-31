@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"[] ","bold":true,"color":"white"},{"text":"Join the echoes Discord and make some friends: ","color":"aqua"},{"text":"https://echoes.fun/discord","underlined":true,"color":"blue","clickEvent":{"action":"open_url","value":"https://echoes.fun/discord"},"hoverEvent":{"action":"show_text","value":["FART"]}}]
